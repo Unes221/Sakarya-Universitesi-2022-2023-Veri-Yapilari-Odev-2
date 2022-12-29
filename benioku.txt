@@ -1,0 +1,6 @@
+
+DİKKAT EDİLMESİ GEREKENLER
+
+Atılan veriler dosyası .txt uzantılı olmalı
+Atılan veriler dosyası G211210064 dosyasında olmalı
+Verilerin tam sayı ve aralıklar bir boşluk olmalı
